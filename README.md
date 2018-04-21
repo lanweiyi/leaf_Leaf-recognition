@@ -2,7 +2,7 @@
 INFO 7390 Project
 
 
-project draft: the file in the folder named project_draft.docx
+project draft: the file in the folder named project_draft.pdf
 
 
 license: license.md
