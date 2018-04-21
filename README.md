@@ -8,7 +8,7 @@ project draft: the file in the folder named project_draft.docx
 license: license.md
 
 
-technology blogs: all the py files in the folder
+technology blogs: all the py files in the folder named project
 
 
 research report: research_paper.pdf
